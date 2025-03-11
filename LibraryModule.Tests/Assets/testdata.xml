@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book>
+    <Title>The Catcher in the Rye</Title>
+    <Author>Salinger J.D.</Author>
+    <Pages>277</Pages>
+  </Book>
+  <Book>
+    <Title>To Kill a Mockingbird</Title>
+    <Author>Lee Harper</Author>
+    <Pages>324</Pages>
+  </Book>
+  <Book>
+    <Title>1984</Title>
+    <Author>Orwell George</Author>
+    <Pages>328</Pages>
+  </Book>
+</Library>
